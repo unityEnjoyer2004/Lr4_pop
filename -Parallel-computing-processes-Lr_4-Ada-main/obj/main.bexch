@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\pudj\Desktop\-Parallel-computing-processes-Lr_4-Ada-main\ada_lr4.gpr
+20240411142500 46e52b9cfa62078bb548707aed6be1ff
+[BOUND OBJECT FILES]
+C:\Users\pudj\Desktop\-Parallel-computing-processes-Lr_4-Ada-main\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\pudj\Desktop\-Parallel-computing-processes-Lr_4-Ada-main\obj\
+-LC:\Users\pudj\Desktop\-Parallel-computing-processes-Lr_4-Ada-main\obj\
+-LC:/unik/progs/gnat/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/unik/progs/gnat/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/unik/progs/gnat/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
